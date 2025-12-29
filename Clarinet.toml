@@ -1,0 +1,16 @@
+[project]
+name = "stacks-crowdfund"
+description = "Decentralized crowdfunding platform on Stacks"
+authors = ["serayd61"]
+telemetry = false
+cache_dir = ".cache"
+requirements = []
+
+[contracts.crowdfund]
+path = "contracts/crowdfund.clar"
+clarity_version = 3
+epoch = 3.0
+
+[repl.analysis]
+passes = ["check_checker"]
+
