@@ -156,3 +156,9 @@ MIT License
 - [Stacks Documentation](https://docs.stacks.co/)
 - [Clarity Language](https://docs.stacks.co/clarity)
 
+
+
+---
+## Mainnet Deployment
+- Contract: SP2PEBKJ2W1ZDDF2QQ6Y4FXKZEDPT9J9R2NKD9WJB.crowdfund
+- Status: ✅ Live on mainnet
