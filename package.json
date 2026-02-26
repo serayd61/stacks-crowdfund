@@ -1,0 +1,29 @@
+{
+  "name": "stacks-crowdfund",
+  "version": "1.0.0",
+  "description": "Decentralized crowdfunding platform on Stacks blockchain. Create campaigns, raise STX, and build community-funded projects.",
+  "main": "lib/crowdfund-client.ts",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serayd61/stacks-crowdfund.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serayd61/stacks-crowdfund/issues"
+  },
+  "homepage": "https://github.com/serayd61/stacks-crowdfund#readme",
+  "dependencies": {
+    "@stacks/connect": "^8.2.5",
+    "@stacks/network": "^7.3.1",
+    "@stacks/transactions": "^7.3.1"
+  }
+}
